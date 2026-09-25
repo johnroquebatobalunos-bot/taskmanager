@@ -17,7 +17,7 @@
                 <span class="brand-mark" aria-hidden="true"></span>
                 <span>Taskflow</span>
             </a>
-            <span class="topbar-note">Small steps count.</span>
+            <span class="topbar-note">Consistency pays off.</span>
         </header>
 
         <main class="content">

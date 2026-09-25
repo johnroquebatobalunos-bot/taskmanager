@@ -5,7 +5,7 @@
         <div class="intro-copy">
             <div class="eyebrow">Personal Task Manager </div>
             <h1> Healthy leaving cuz popular. </h1>
-            <p>Doubt kills more dreams than failure ever will.</p>
+            <p>No Pain No Gain.</p>
         </div>
         <span class="intro-note">Your tasks, all in one place.</span>
     </section>
