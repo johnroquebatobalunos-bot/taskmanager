@@ -3,7 +3,7 @@
 @section('content')
     <section class="intro">
         <div class="intro-copy">
-            <div class="eyebrow">Personal purpose </div>
+            <div class="eyebrow">Personal Task Manager </div>
             <h1> Healthy leaving cuz popular. </h1>
             <p>Doubt kills more dreams than failure ever will.</p>
         </div>
