@@ -17,17 +17,7 @@
                 <span class="brand-mark" aria-hidden="true"></span>
                 <span>Taskflow</span>
             </a>
-            @auth
-                <div class="account-bar">
-                    <span class="topbar-note">Hi, {{ auth()->user()->name }}.</span>
-                    <form action="{{ route('logout') }}" method="POST">
-                        @csrf
-                        <button class="logout-button" type="submit">Log out</button>
-                    </form>
-                </div>
-            @else
-                <span class="topbar-note">Small steps count.</span>
-            @endauth
+            <span class="topbar-note">Small steps count.</span>
         </header>
 
         <main class="content">
