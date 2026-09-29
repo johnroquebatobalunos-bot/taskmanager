@@ -13,7 +13,8 @@ A task management web application built with Laravel that lets users register, l
 
 ## Screenshot
 
-![Personal Task Manager Screenshot](docs/screenshot.png)
+<img width="1913" height="1079" alt="bba55810-c7b2-484d-bf01-9c83cc99a362" src="https://github.com/user-attachments/assets/278af61b-d361-473c-87d6-762568ef9315" />
+
 
 ## Features
 
@@ -24,32 +25,3 @@ A task management web application built with Laravel that lets users register, l
 - Delete task
 - Update task status
 
-## Setup
-
-1. Install PHP dependencies:
-```bash
-   composer install
-```
-2. Install and build frontend assets:
-```bash
-   npm install
-   npm run build
-```
-3. Copy `.env.example` to `.env` and configure the database connection.
-4. Generate the application key:
-```bash
-   php artisan key:generate
-```
-5. Run the migrations:
-```bash
-   php artisan migrate
-```
-6. Seed the database to create the demo account:
-```bash
-   php artisan db:seed
-```
-7. Start the application:
-```bash
-   php artisan serve
-```
-   Then open the local URL shown in your terminal.
