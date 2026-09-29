@@ -25,3 +25,6 @@ A task management web application built with Laravel that lets users register, l
 - Delete task
 - Update task status
 
+## Screenshot
+
+<img width="1913" height="1079" alt="bba55810-c7b2-484d-bf01-9c83cc99a362" src="https://github.com/user-attachments/assets/278af61b-d361-473c-87d6-762568ef9315" />
